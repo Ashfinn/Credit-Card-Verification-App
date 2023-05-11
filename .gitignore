@@ -9,7 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+*.sln
+*.vsxproj*
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -361,3 +362,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Credit Card Verification App.h
+/Credit Card Verification App.sln
+/Credit Card Verification App.cpp
+/Credit Card Verification App.vcxproj
+/Credit Card Verification App.vcxproj.filters
